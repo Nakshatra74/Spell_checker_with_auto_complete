@@ -1,0 +1,29 @@
+=== Search ===
+apple -> found
+appl  -> not found
+
+=== Prefix Search ===
+startsWith('app') -> true
+
+=== Autocomplete for 'app' ===
+  apple (freq: 50)
+  application (freq: 30)
+  apply (freq: 20)
+  appreciate (freq: 10)
+
+=== Autocomplete for 'ban' ===
+  banana (freq: 25)
+  band (freq: 15)
+  bandwidth (freq: 8)
+  bandana (freq: 5)
+
+=== Spell Check for 'aple' (typo of 'apple') ===
+  apple (freq: 50)
+  apply (freq: 20)
+
+=== Spell Check for 'catt' ===
+  cat (freq: 40)
+  cattle (freq: 6)
+
+=== Word Frequency ===
+apple frequency: 50
