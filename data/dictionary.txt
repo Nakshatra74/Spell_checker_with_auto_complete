@@ -1,0 +1,12 @@
+apple 50
+application 30
+apply 20
+appreciate 10
+banana 25
+band 15
+bandana 5
+bandwidth 8
+cat 40
+catalog 12
+category 18
+cattle 6
